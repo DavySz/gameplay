@@ -76,3 +76,7 @@ CDN_IMAGE=
 <br />
 
 <div align="center">
+  
+---
+
+<p align="center">Made with 💜 by Davy de Souza</p>
